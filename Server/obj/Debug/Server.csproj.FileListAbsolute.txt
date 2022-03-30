@@ -1,0 +1,13 @@
+F:\C#\CHATAPP_TranVanThuan\Server\bin\Debug\Server.exe.config
+F:\C#\CHATAPP_TranVanThuan\Server\bin\Debug\Server.exe
+F:\C#\CHATAPP_TranVanThuan\Server\bin\Debug\Server.pdb
+F:\C#\CHATAPP_TranVanThuan\Server\obj\Debug\Server.csproj.AssemblyReference.cache
+F:\C#\CHATAPP_TranVanThuan\Server\obj\Debug\Server.Properties.Resources.resources
+F:\C#\CHATAPP_TranVanThuan\Server\obj\Debug\Server.csproj.GenerateResource.cache
+F:\C#\CHATAPP_TranVanThuan\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+F:\C#\CHATAPP_TranVanThuan\Server\obj\Debug\Server.exe
+F:\C#\CHATAPP_TranVanThuan\Server\obj\Debug\Server.pdb
+F:\C#\CHATAPP_TranVanThuan\Server\obj\Debug\Server.Form1.resources
+F:\C#\ChatApp_TranVanThuan\Server\bin\Debug\Newtonsoft.Json.dll
+F:\C#\ChatApp_TranVanThuan\Server\bin\Debug\Newtonsoft.Json.xml
+F:\C#\ChatApp_TranVanThuan\Server\obj\Debug\Server.csproj.CopyComplete
